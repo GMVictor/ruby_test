@@ -1,0 +1,18 @@
+{
+    "id": 999,
+    "category": {
+      "id": 1,
+      "name": "dog"
+    },
+    "name": "ninety k-nine",
+    "photoUrls": [
+      "string"
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "string"
+      }
+    ],
+    "status": "available"
+  }
